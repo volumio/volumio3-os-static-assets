@@ -1,5 +1,5 @@
 to enable the extensions with Chromium/Vivaldi, uncompress the extension archive and add the following parameters to the browser launch script:
 
---load-extension="path/to/extension" --no-first-run
+--load-extension=--load-extension="path/to/extension" --no-first-run
 
 where "path/to/extension" is the complete path of the extension folder containing the manifest.json file and the other extension files.
