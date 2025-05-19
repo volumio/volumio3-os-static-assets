@@ -1,0 +1,1 @@
+89807c5b065d15c8a99ed49e497d425305036468  firmware-volumio.tar.gz
