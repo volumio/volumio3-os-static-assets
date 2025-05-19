@@ -1,1 +1,1 @@
-91aadbd258833504eee0ca16b7cf9907  firmware-volumio.tar.gz
+35eb019ac12cd4bc667de4949565406e  firmware-volumio.tar.gz
