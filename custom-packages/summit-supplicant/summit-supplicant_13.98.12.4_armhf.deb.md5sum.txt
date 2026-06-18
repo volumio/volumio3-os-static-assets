@@ -1,0 +1,1 @@
+711fe692620f61b7b824ccf913981782  output/summit-supplicant_13.98.12.4_armhf.deb
