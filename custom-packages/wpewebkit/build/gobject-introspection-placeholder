@@ -1,0 +1,9 @@
+Section: misc
+Priority: optional
+Standards-Version: 4.6.2
+Package: gobject-introspection
+Version: 1.74.0-3
+Architecture: armhf
+Multi-Arch: foreign
+Description: placeholder so armhf -dev packages install in a cross-build container
+ Typelibs are never read when building C code; no binaries are shipped.
