@@ -10,6 +10,8 @@ Volumio's panel UI plugin, where it replaces bookworm's WPE 2.38 + cog 0.16.
 | `libwpewebkit-2.0-1` | 2.48.3-1~bpo12+1 |
 | `cog` | 0.18.4-1~bpo12+1 |
 
+Source packages and licenses: [volumio/wpewebkit-bookworm-sources](https://github.com/volumio/wpewebkit-bookworm-sources).
+
 Install with `apt-get install ./*_<build>.deb`: apt adds `libavif15` and
 `libgstreamer-plugins-bad1.0-0` from the bookworm repository.
 
